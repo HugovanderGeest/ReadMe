@@ -1,4 +1,4 @@
-#Mening over PRO2 
+# Mening over PRO2 
 ----------------
 
 ik wil graag men mening delen met de leeraar over PRO2, dat ik voor het programmeren 
@@ -18,4 +18,4 @@ of aanval naar de leeraar, zeker niet zelf. zou u
 graag voor PRO1 hebben. maar ik vind de les niet heel fijn en zie me zelf het 
 ook niet gaan gebruiken in het dagelijk leven.
 
-Hugo MG1b
+#### Hugo MG1b
