@@ -1,4 +1,5 @@
 # `Mening over PRO2` 
+
 ----------------
 
 ik wil graag men **mening** delen met de leeraar over PRO2, dat ik voor het programmeren 
@@ -21,7 +22,7 @@ ook niet gaan gebruiken in het dagelijk leven.
 ### Hugo van der Geest
 #### MG1B 
 --------
-##### *11-10-19 
+##### `11-10-19` 
 
 [Meer over mij](https://www.instagram.com/Hugo.vdg/)
 
