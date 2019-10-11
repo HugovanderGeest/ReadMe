@@ -1,7 +1,7 @@
 # Mening over PRO2 
 ----------------
 
-ik wil graag men mening delen met de leeraar over PRO2, dat ik voor het programmeren 
+ik wil graag men **mening** delen met de leeraar over PRO2, dat ik voor het programmeren 
 een veel groteren voorlieften heb als voor 3D animaties, 
 .dit komt natuurlijk niet door de leeraar zelf maar door 
 mij die liever indept gaat met programmeren als voor iets in 3D maken 
@@ -21,5 +21,5 @@ ook niet gaan gebruiken in het dagelijk leven.
 ### Hugo van der Geest
 #### MG1B 
 --------
-##### 11-10-19
+##### * 11-10-19 *
 
