@@ -23,6 +23,6 @@ ook niet gaan gebruiken in het dagelijk leven.
 --------
 ##### *11-10-19 
 
-[I'm an inline-style link](https://www.google.com)
+[Meer over mij](https://www.instagram.com/Hugo.vdg/)
 
 
